@@ -1,0 +1,40 @@
+body{
+	background: grey;
+}
+
+#Container{
+	background: white;
+	overflow: auto;
+	clear: both;
+}
+
+
+#header1{
+	float: left;
+	margin-right: 20px;
+	clear: both;
+}
+
+#ryan{
+	margin-left: 0px;
+	margin-top: 30px;
+	word-wrap: normal;
+	
+}
+
+.footer,
+.push {
+	height: 50px;
+	text-align: center;
+
+}
+
+#sidebar{
+	background: white;
+	display: block;
+	clear: both;
+	width: 50%;
+}
+
+
+
