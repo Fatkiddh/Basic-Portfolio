@@ -8,8 +8,10 @@ body {
 	height: 50px;
 }
 
+/*my name in the header section*/
 h1{
 	background-color: #4aaaa5;
+	color: white;
 	width: 10%;
 	height: 70%;
 	margin-left: 20%;
@@ -21,7 +23,11 @@ h1{
 .nav{
 	position: absolute;
 	top: 5%;
-	right: 30%;
+	right: 5%;
+}
+/*need to change each link to a id or class to be able to specify when i hover over just a specfic link*/
+nav:hover{
+	background-color: red;
 }
 
 /* list of pages; about me, Portfolio, Contact */
@@ -40,6 +46,7 @@ li{
 	overflow: auto;
 }
 
+/*container on Portfolio(need to work more on this page, does not render when changing sizes of the page.) page*/
 .Container2{
 	width: 550px;
 	background-color: white;
@@ -50,6 +57,7 @@ li{
 
 }
 
+/*title for each content section of about me, portfolio, contact pages*/
 h2{
 	margin-bottom: 2%;
 	padding-top: 2%;
