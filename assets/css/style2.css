@@ -87,7 +87,8 @@ h2{
 	height: 100px;
 
 }
-/*contact from list*/
+
+/*contact form list*/
 	#fname{
 		width: 80%;
 }
@@ -101,7 +102,8 @@ h2{
 		height: 150px;
 
 }
-/*pictures for portfolio page (i did this part wrong only looks correct at one specific screen size, need to change html so the images and text fit together.)*/
+/*pictures for portfolio page (i did this part wrong only looks correct at one specific screen size,
+need to change html so the images and text fit together. screen size height 850px,1219px)*/
 #portfolio{
 	float: left;
 	padding-left: 40px;
